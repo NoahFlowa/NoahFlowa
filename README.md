@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoahFlowa
-- 👀 I’m interested in programming, pen-testing and video games!
-- 🌱 I’m currently learning pen-testing with the Flipper Zero.
+- 👀 I’m interested in programming, video games and technology as a whole
+- 🌱 I’m currently learning BODA (Build Once, Deploy Anywhere) with React Native & Expo
 - 📫 How to reach me: (Website!)[https://noahosterhout.com]
 
 <!---
