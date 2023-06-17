@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NoahFlowa
+- 👋 Hi, I’m **@NoahFlowa**
 - 👀 I’m interested in programming, video games and technology as a whole
-- 🌱 I’m currently learning BODA (Build Once, Deploy Anywhere) with React Native & Expo
+- 🌱 I’m currently learning `BODA` _(Build Once, Deploy Anywhere)_ with React Native & Expo
 - 📫 How to reach me: (Website!)[https://noahosterhout.com]
 
 <!---
