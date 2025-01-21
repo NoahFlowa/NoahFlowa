@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@NoahFlowa**
 - 👀 I’m interested in programming, video games and technology as a whole
-- 🌱 I’m currently learning `BODA` _(Build Once, Deploy Anywhere)_ with React Native & Expo
+- 🌱 I’m currently working with Machine Learning, LLMs like Meta Llama 3.1 8B and 405B.
 - 📫 How to reach me: [NoahOsterhout.com](https://noahosterhout.com)
 
 <!---
